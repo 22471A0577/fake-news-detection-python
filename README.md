@@ -38,3 +38,5 @@ I combined them into one dataset and labeled them:
 3. the output will show the model accuracy and prediction result for a test input
 4. Model Accuracy : 0.98 prediction(1= Real, ) = Fake):0
 
+## Author
+ Koduri Sowjanya Reddy
