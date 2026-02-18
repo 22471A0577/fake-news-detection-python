@@ -85,6 +85,3 @@ Due to GitHub file size limitations, the complete dataset is not included in thi
 
 ---
 
-## Author
-
-Sowjanya Reddy
